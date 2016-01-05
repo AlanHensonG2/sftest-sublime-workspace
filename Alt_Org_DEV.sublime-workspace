@@ -1,0 +1,1224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"account",
+				"accountData	events20.page"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"selected",
+				"selectedId"
+			],
+			[
+				"att",
+				"attendees	JS_reg_ctrl_eventsetup.resource"
+			],
+			[
+				"selecte",
+				"selectedId"
+			],
+			[
+				"type",
+				"typeof(aSome)"
+			],
+			[
+				"requiree",
+				"requirement"
+			],
+			[
+				"opprotun",
+				"opportunityId"
+			],
+			[
+				"Registration",
+				"Registration_Requirements__c"
+			],
+			[
+				"Ms",
+				"Master_Opportunity__c	JS_reg_ctrl_eventsetup.resource"
+			],
+			[
+				"pend",
+				"pendoData"
+			],
+			[
+				"getCon",
+				"getConAnalytics	events20.page"
+			],
+			[
+				"getConA",
+				"getConAnalytics	(eventsController.cls)"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"update",
+				"updateProps(step)	js_reg_ctrl_wizard.resource"
+			],
+			[
+				"upda",
+				"updatePeopleProps()	JS_reg_ctrl_wizard.resource"
+			],
+			[
+				"for",
+				"forEach(function(aSome) {"
+			],
+			[
+				"opp",
+				"opportunity"
+			],
+			[
+				"buildProgre",
+				"buildProgressProps()	JS_reg_ctrl_wizard.resource"
+			],
+			[
+				"forms",
+				"forms	(JS_reg_ctrl_wizard.resource)"
+			],
+			[
+				"progress",
+				"progressProps"
+			],
+			[
+				"immed",
+				"immediateRequirements"
+			],
+			[
+				"personal",
+				"personalInfo"
+			],
+			[
+				"progres",
+				"progressProps"
+			],
+			[
+				"progr",
+				"progressProps	(JS_reg_ctrl_wizard.resource)"
+			],
+			[
+				"immeda",
+				"immediateRequirements	(events20.page)"
+			],
+			[
+				"persoanlIf",
+				"personalInfo	(events20.page)"
+			],
+			[
+				"wizar",
+				"wizardStep"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"HTML_registration_family",
+				"HTML_registration_familylodging"
+			],
+			[
+				"getFamily",
+				"getFamilyContacts	(WizardExtension.cls)"
+			],
+			[
+				"Wizard",
+				"WizardExtension"
+			],
+			[
+				"chekpoint",
+				"checkpointImmediateReqs	(events20.page)"
+			],
+			[
+				"checkpoin",
+				"checkpointImmediateReqs"
+			],
+			[
+				"checkpoint",
+				"checkpointSignedUp"
+			],
+			[
+				"personalInf",
+				"personalInformation"
+			],
+			[
+				"Html_reg",
+				"HTML_registration_wizard"
+			],
+			[
+				"complete",
+				"completeHealthHistoryForm	(JS_reg_ctrl_eventsetup.resource)"
+			],
+			[
+				"tem",
+				"tempAttendee"
+			],
+			[
+				"RSV",
+				"RSVP__c==\"Registered	(HTML_registration_eventsetup.resource)"
+			],
+			[
+				"Health_",
+				"Health_History_Form__r	(FamilyMethods.cls)"
+			],
+			[
+				"attende",
+				"attendees	(JS_reg_ctrl_eventsetup.resource)"
+			],
+			[
+				"JS_reg_ctrl_eve",
+				"JS_reg_ctrl_eventsetup"
+			],
+			[
+				"new",
+				"newEamil"
+			],
+			[
+				"visibl",
+				"visibility"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"webkit-trans",
+				"webkit-transform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"brows ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"saj",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"shs",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssaj",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtman",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"sshta",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"sshan",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"select brack",
+				"BracketHighlighter: Select Bracket Content with Brackets"
+			],
+			[
+				"packagecontrol: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 466.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sublime_Workspaces/workspace/Alt_Org_DEV"
+	],
+	"file_history":
+	[
+		"/C/Development/sftest/metadata/staticresources/contactApp.resource",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Sublime_Workspaces/workspace/Alt_Org_PROD/src/staticresources/testFile.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/searchController.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/eventsController.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/events20.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_eventslist.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_pendo_snippet.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_registration.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_events.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_waiver.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/WizardExtension.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_eventsetup.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_eventswaiver.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_eventsetup.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/EventSetup.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/Sandbox.sublime-project",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_familylist.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_pendo_options.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_addfamilymember.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_search.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_healthhistory.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_healthform.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/HealthFormController.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/Sandbox.sublime-settings",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/ApplicationReview.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/application.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_AppReview_Profile.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/navStyles.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_payments.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_payment.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_checkpointSignedUp.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_checkpointImmediateReqs.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_checkpointComplete.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_checkpointComplete.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_checkpointImmediateReqs.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_checkpointSignedUp.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/appReview_profile.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_addPeople.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_immediateReqs.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_familylodging.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_personalInfo.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_eventpayment.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_payments.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_checkpoint_signed_up.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_complete.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_complete.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_familyinformation.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_paymentHistory.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wallet.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_donate.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_directives.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/ActivityCentral.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_welcome.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_addPeople.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_healthForm.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_wizard_waiver.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_waiver.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_familylodging.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_lodging.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_personalinformation.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_immediateRequirements.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/unpackaged/staticresources/JS_reg_ctrl_wizard_immediateReqs.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_wizard_welcome.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_eventslist.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/registerContactChecklist.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_Registration_account.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/FamilyMethods.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_addFamilyMember.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_familysetup.resource",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/C/Sublime_Workspaces/workspace/Sandbox/config/.describe",
+		"/C/Sublime_Workspaces/workspace/Sandbox/unpackaged/package.xml",
+		"/C/Sublime_Workspaces/workspace/Sandbox/unpackaged/pages/events20.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/unpackaged/staticresources/JS_reg_ctrl_registration.resource",
+		"/C/Users/AHenson/Desktop/JS_reg_ctrl_wizard.js",
+		"/C/Users/AHenson/Desktop/index.html",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_events.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/eventSetup.page",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/AddFamilyMemberController.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/FamilyController.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_family.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/classes/RegistrationController.cls",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/JS_reg_ctrl_familysetup.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/registration_eventSetup.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_eventsetup.resource-meta.xml",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/package.xml",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_registration_family.resource",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/bootstrap.resource-meta.xml",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/reg_fi.page",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/triggers/AccountToChargeMustBeAnInviteeOrOpportunityAccount.trigger-meta.xml",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Development/slds-demo/public/index.html",
+		"/C/Developer/public/setup.html",
+		"/C/Development/MiniHack-7/public/index.html",
+		"/C/Developer/public/index.html",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/staticresources/HTML_application_profile.resource",
+		"/C/Sublime_Workspaces/workspace/Sandbox/src/pages/application_reference.page",
+		"/C/Users/AHenson/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"",
+			"JS_*",
+			"",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"goToNextSetp",
+			"console.log",
+			"completehealthhistoryform",
+			"console.log",
+			"angular-table",
+			"ngAnimate",
+			"$pendolytics",
+			"!UsersId",
+			"pendoData",
+			"pendo",
+			"eventscontroller",
+			"openWaiver",
+			"openHealthForm",
+			"complete",
+			"console.log",
+			"complete",
+			"WaiverCtrl",
+			"tid ",
+			".tid",
+			"tid",
+			"wizEx_getWaiver",
+			"waiver",
+			"WizardExtension",
+			"wizEx_getWaiver",
+			"favorite",
+			"openHealthForm",
+			"\n  ",
+			");\n",
+			"<div class=\"col-xs-12 col-sm-5 form-group sb-select\" ng-class=\"{'has-error': squirrels",
+			"trail crew waiver",
+			"registrationCtrl",
+			"getInvoice",
+			"modifyRooms",
+			"angular.module",
+			"getEvents",
+			"angular.module",
+			"RemoteAction",
+			"angular.module",
+			"RD",
+			"MainCtrl",
+			"notesVisible",
+			"notes-visible",
+			"comments-list",
+			"updateProps",
+			"payment",
+			"page-button",
+			"even payments",
+			"step-icon-container",
+			"openPaymentStart",
+			"openPaymentResult",
+			"submitPayment",
+			"$scope.$parent",
+			".then",
+			"then.",
+			"then",
+			"resolve",
+			"opportunity",
+			"wizEx_getInvitees",
+			"console.log",
+			"alert(",
+			"console.log",
+			"progressProps",
+			"eventswaiver",
+			"waiver",
+			"lodging",
+			"tid",
+			"eventsController.getEvent",
+			"goToNextStep",
+			"goToEvent",
+			"goToEvent(",
+			"personalInfo",
+			"ng-show",
+			"registrationServices.HTML.waiver",
+			"-",
+			"eventSetup",
+			"RegistrationCtrl",
+			"events20",
+			"waiverForm",
+			"registration.events",
+			"search",
+			"                                \n",
+			"attendee.waiverComplete",
+			"attendee.hhComplete",
+			"$scope",
+			"'006e0000007ao0oAAA'",
+			"evtINfo",
+			"registrationServices",
+			"qname",
+			"getEventInfo",
+			"promise",
+			"getEventInfo",
+			"get",
+			"remoteAction",
+			"EventSetupCtrl",
+			"ng-repeat",
+			".directive",
+			"angular.module",
+			"showNotes",
+			"ng-click",
+			"registration_eventSetup",
+			"{!URLFOR($Resource.BootstrapFiles, '/BootstrapFiles/ui-bootstrap-custom-tpls.min.js')}",
+			".googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js",
+			"//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js",
+			"avJS",
+			"{!URLFOR($Resource.BootstrapFiles, '/BootstrapFiles/bootstrap.min.js')}",
+			"$Resource.BootstrapFiles, '/BootstrapFiles/jquery.min.js",
+			"<script src=\"//campeagle.ipower.com/app/js//sforce-services.js\"></script>",
+			"familysetup",
+			"ng-app",
+			"app",
+			"eventsetup",
+			"controller",
+			"EventsCtrl",
+			"registrationctrl",
+			"RegistrationCtrl",
+			"incomp",
+			"phone-well",
+			".phone-well",
+			";\n",
+			"phone-well",
+			"phone-slider",
+			"glyphicon glyphicon-option-vertical pull-right",
+			"phone-slider",
+			"application-comments-list",
+			"eamil",
+			"button",
+			"ng-click",
+			"comment-box-wrapper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"console.error(",
+			"//console.log",
+			":Id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "Alt_Org_DEV.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"addpeople",
+				"src\\staticresources\\HTML_registration_wizard_addPeople.resource"
+			],
+			[
+				"eventsetup",
+				"src\\classes\\EventSetup.cls"
+			],
+			[
+				"ctrleventsetup",
+				"src\\staticresources\\JS_reg_ctrl_eventsetup.resource"
+			],
+			[
+				"htmleventsetup",
+				"src\\staticresources\\HTML_registration_eventsetup.resource"
+			],
+			[
+				"searchcon",
+				"src\\classes\\searchController.cls"
+			],
+			[
+				"eventscontrol",
+				"src\\classes\\eventsController.cls"
+			],
+			[
+				"events",
+				"src\\pages\\events20.page"
+			],
+			[
+				"eventscont",
+				"src\\classes\\eventsController.cls"
+			],
+			[
+				"pendo",
+				"src\\staticresources\\JS_pendo_snippet.resource"
+			],
+			[
+				"jsregctrleventslit",
+				"src\\staticresources\\JS_reg_ctrl_eventslist.resource"
+			],
+			[
+				"",
+				"src\\staticresources\\JS_reg_ctrl_events.resource"
+			],
+			[
+				"jsregctrlregistr",
+				"src\\staticresources\\JS_reg_ctrl_registration.resource"
+			],
+			[
+				"eventscontroller",
+				"src\\classes\\eventsController.cls"
+			],
+			[
+				"jsregctrlevents",
+				"src\\staticresources\\JS_reg_ctrl_events.resource"
+			],
+			[
+				"pendosni",
+				"src\\staticresources\\JS_pendo_snippet.resource"
+			],
+			[
+				"jsregctrleventswa",
+				"src\\staticresources\\JS_reg_ctrl_eventswaiver.resource"
+			],
+			[
+				"html_registration_waiver",
+				"src\\staticresources\\HTML_registration_waiver.resource"
+			],
+			[
+				"wizardextensi",
+				"src\\classes\\WizardExtension.cls"
+			],
+			[
+				"eventscontr",
+				"src\\classes\\eventsController.cls"
+			],
+			[
+				"jsregeventsetup",
+				"src\\staticresources\\JS_reg_ctrl_eventsetup.resource"
+			],
+			[
+				"htmlregistrationsetup",
+				"src\\staticresources\\HTML_registration_eventsetup.resource"
+			],
+			[
+				"familylist",
+				"src\\staticresources\\JS_reg_ctrl_familylist.resource"
+			],
+			[
+				"jsregctrl",
+				"src\\staticresources\\JS_reg_ctrl_addfamilymember.resource"
+			],
+			[
+				"familylistc",
+				"src\\staticresources\\JS_reg_ctrl_familylist.resource"
+			],
+			[
+				"eventsconr",
+				"src\\classes\\eventsController.cls"
+			],
+			[
+				"sjs",
+				"src\\staticresources\\JS_reg_ctrl_search.resource"
+			],
+			[
+				"pendoop",
+				"src\\staticresources\\JS_pendo_options.resource"
+			],
+			[
+				"events20",
+				"src\\pages\\events20.page"
+			],
+			[
+				"js_pendo",
+				"src\\staticresources\\JS_pendo_snippet.resource"
+			],
+			[
+				"jsreghealth",
+				"src\\staticresources\\JS_reg_ctrl_healthhistory.resource"
+			],
+			[
+				"reghealth",
+				"src\\staticresources\\HTML_registration_healthform.resource"
+			],
+			[
+				"healthform",
+				"src\\classes\\HealthFormController.cls"
+			],
+			[
+				"application",
+				"src\\pages\\application.page"
+			],
+			[
+				"htmlregpayments",
+				"src\\staticresources\\HTML_registration_payments.resource"
+			],
+			[
+				"htmlregpayment",
+				"src\\staticresources\\HTML_registration_payment.resource"
+			],
+			[
+				"applicationreview",
+				"src\\pages\\ApplicationReview.page"
+			],
+			[
+				"appreview",
+				"src\\pages\\appReview_profile.page"
+			],
+			[
+				"htmlappreviewprof",
+				"src\\staticresources\\HTML_AppReview_Profile.resource"
+			],
+			[
+				"navstyl",
+				"src\\staticresources\\navStyles.resource"
+			],
+			[
+				"htmlregwiz",
+				"src\\staticresources\\HTML_registration_wizard.resource"
+			],
+			[
+				"jsregwizcheckpoin",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointComplete.resource"
+			],
+			[
+				"htmlcheckpoint",
+				"src\\staticresources\\HTML_registration_wizard_checkpointComplete.resource"
+			],
+			[
+				"htmlcheckpointsignedup",
+				"src\\staticresources\\HTML_registration_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"htmlchekcpoint",
+				"src\\staticresources\\HTML_registration_wizard_checkpointImmediateReqs.resource"
+			],
+			[
+				"jsregctrllodgin",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"jsregctrlwizardcheckpoint",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointImmediateReqs.resource"
+			],
+			[
+				"js_reg_imm",
+				"src\\staticresources\\JS_reg_ctrl_wizard_immediateReqs.resource"
+			],
+			[
+				"jsregctrlpersonal",
+				"src\\staticresources\\JS_reg_ctrl_wizard_personalInfo.resource"
+			],
+			[
+				"jsregctrlsign",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"jsregwizaddpeop",
+				"src\\staticresources\\JS_reg_ctrl_wizard_addPeople.resource"
+			],
+			[
+				"sjwizar",
+				"src\\staticresources\\JS_reg_ctrl_wizard.resource"
+			],
+			[
+				"htmlwizard",
+				"src\\staticresources\\HTML_registration_wizard.resource"
+			],
+			[
+				"htmlpayents",
+				"src\\staticresources\\HTML_registration_payments.resource"
+			],
+			[
+				"jseventsetup",
+				"src\\staticresources\\JS_reg_ctrl_eventsetup.resource"
+			],
+			[
+				"eventpayment",
+				"src\\staticresources\\JS_reg_ctrl_eventpayment.resource"
+			],
+			[
+				"jsfamilylodging",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"jsregpayment",
+				"src\\staticresources\\JS_reg_ctrl_payments.resource"
+			],
+			[
+				"html_regpay",
+				"src\\staticresources\\HTML_registration_payment.resource"
+			],
+			[
+				"checkpointimmed",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointImmediateReqs.resource"
+			],
+			[
+				"checkpointimmediate",
+				"src\\staticresources\\HTML_registration_wizard_checkpointImmediateReqs.resource"
+			],
+			[
+				"checkpointsignedup",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"signeup",
+				"src\\staticresources\\HTML_registration_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"htmlregpaymet",
+				"src\\staticresources\\HTML_registration_payment.resource"
+			],
+			[
+				"htmlcheckpointcomlete",
+				"src\\staticresources\\HTML_registration_wizard_checkpointComplete.resource"
+			],
+			[
+				"jsregctrlcheck",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointComplete.resource"
+			],
+			[
+				"wizardcomplete",
+				"src\\staticresources\\JS_reg_ctrl_wizard_complete.resource"
+			],
+			[
+				"regcomplete",
+				"src\\staticresources\\HTML_registration_wizard_complete.resource"
+			],
+			[
+				"eventpaye",
+				"src\\staticresources\\JS_reg_ctrl_eventpayment.resource"
+			],
+			[
+				"jslodg",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"jsctrlimmedaite",
+				"src\\staticresources\\JS_reg_ctrl_wizard_immediateReqs.resource"
+			],
+			[
+				"wizardext",
+				"src\\classes\\WizardExtension.cls"
+			],
+			[
+				"htmlregistrationwizard",
+				"src\\staticresources\\HTML_registration_wizard.resource"
+			],
+			[
+				"ctrlwizard",
+				"src\\staticresources\\JS_reg_ctrl_wizard.resource"
+			],
+			[
+				"reg_ctrleventpay",
+				"src\\staticresources\\JS_reg_ctrl_eventpayment.resource"
+			],
+			[
+				"ctrlwizardpersoalinfo",
+				"src\\staticresources\\JS_reg_ctrl_wizard_personalInfo.resource"
+			],
+			[
+				"ctrl_wallet",
+				"src\\staticresources\\JS_reg_ctrl_wallet.resource"
+			],
+			[
+				"ctrl_search",
+				"src\\staticresources\\JS_reg_ctrl_search.resource"
+			],
+			[
+				"ctrl_paymen",
+				"src\\staticresources\\JS_reg_ctrl_payments.resource"
+			],
+			[
+				"ctrl_paymenthistory",
+				"src\\staticresources\\JS_reg_ctrl_paymentHistory.resource"
+			],
+			[
+				"ctrlfamilyinformation",
+				"src\\staticresources\\JS_reg_ctrl_familyinformation.resource"
+			],
+			[
+				"ctrlevents",
+				"src\\staticresources\\JS_reg_ctrl_events.resource"
+			],
+			[
+				"ctrleventpayment",
+				"src\\staticresources\\JS_reg_ctrl_eventpayment.resource"
+			],
+			[
+				"ctrl_donate",
+				"src\\staticresources\\JS_reg_ctrl_donate.resource"
+			],
+			[
+				"reg_directives",
+				"src\\staticresources\\JS_reg_directives.resource"
+			],
+			[
+				"ctrlwizardpersonalinfo",
+				"src\\staticresources\\JS_reg_ctrl_wizard_personalInfo.resource"
+			],
+			[
+				"ctrl_healthhistor",
+				"src\\staticresources\\JS_reg_ctrl_healthhistory.resource"
+			],
+			[
+				"ctrlfamilylist",
+				"src\\staticresources\\JS_reg_ctrl_familylist.resource"
+			],
+			[
+				"ctrleventswaiver",
+				"src\\staticresources\\JS_reg_ctrl_eventswaiver.resource"
+			],
+			[
+				"ctrleventlis",
+				"src\\staticresources\\JS_reg_ctrl_eventslist.resource"
+			],
+			[
+				"regctrlevents",
+				"src\\staticresources\\JS_reg_ctrl_events.resource"
+			],
+			[
+				"regctrlevent",
+				"src\\staticresources\\JS_reg_ctrl_eventpayment.resource"
+			],
+			[
+				"regctrld",
+				"src\\staticresources\\JS_reg_ctrl_donate.resource"
+			],
+			[
+				"js_reg_ctr",
+				"src\\staticresources\\JS_reg_ctrl_addfamilymember.resource"
+			],
+			[
+				"activitycentral.",
+				"src\\pages\\ActivityCentral.page"
+			],
+			[
+				"signedup",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"jsctrlloding",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"ctrlwelcom",
+				"src\\staticresources\\JS_reg_ctrl_wizard_welcome.resource"
+			],
+			[
+				"jsregctrlimmed",
+				"src\\staticresources\\JS_reg_ctrl_wizard_immediateReqs.resource"
+			],
+			[
+				"js_wizpersonal",
+				"src\\staticresources\\JS_reg_ctrl_wizard_personalInfo.resource"
+			],
+			[
+				"jsregpersonalinf",
+				"src\\staticresources\\JS_reg_ctrl_wizard_personalInfo.resource"
+			],
+			[
+				"jsaddpeo",
+				"src\\staticresources\\JS_reg_ctrl_wizard_addPeople.resource"
+			],
+			[
+				"wizex",
+				"src\\classes\\WizardExtension.cls"
+			],
+			[
+				"html_wizard",
+				"src\\staticresources\\HTML_registration_wizard.resource"
+			],
+			[
+				"checkpointcomplete",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointComplete.resource"
+			],
+			[
+				"htmladdpeople",
+				"src\\staticresources\\HTML_registration_wizard_addPeople.resource"
+			],
+			[
+				"evetns20",
+				"src\\pages\\events20.page"
+			],
+			[
+				"js_ctrl_wizard_addpeopl",
+				"src\\staticresources\\JS_reg_ctrl_wizard_addPeople.resource"
+			],
+			[
+				"htmlwizcheck",
+				"src\\staticresources\\HTML_registration_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"jswizcomplete",
+				"src\\staticresources\\JS_reg_ctrl_wizard_complete.resource"
+			],
+			[
+				"registrationcompl",
+				"src\\staticresources\\HTML_registration_wizard_complete.resource"
+			],
+			[
+				"jsregctwizard",
+				"src\\staticresources\\JS_reg_ctrl_wizard.resource"
+			],
+			[
+				"js_reg_ctrl_waiver",
+				"src\\staticresources\\JS_reg_ctrl_eventswaiver.resource"
+			],
+			[
+				"jsregwizsigneup",
+				"src\\staticresources\\JS_reg_ctrl_wizard_checkpointSignedUp.resource"
+			],
+			[
+				"htmlwaiver",
+				"src\\staticresources\\HTML_registration_wizard_waiver.resource"
+			],
+			[
+				"waiver",
+				"src\\staticresources\\HTML_registration_waiver.resource"
+			],
+			[
+				"regctrlwizhealthf",
+				"src\\staticresources\\JS_reg_ctrl_wizard_healthForm.resource"
+			],
+			[
+				"jsctrlwizaddp",
+				"src\\staticresources\\JS_reg_ctrl_wizard_addPeople.resource"
+			],
+			[
+				"jsctrlwiaver",
+				"src\\staticresources\\JS_reg_ctrl_wizard_waiver.resource"
+			],
+			[
+				"checkpoint",
+				"src\\staticresources\\HTML_registration_wizard_checkpointImmediateReqs.resource"
+			],
+			[
+				"jsperosnal",
+				"src\\staticresources\\JS_reg_ctrl_personalinformation.resource"
+			],
+			[
+				"js_famil",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"htmllodging",
+				"src\\staticresources\\HTML_registration_familylodging.resource"
+			],
+			[
+				"familyloding",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"html_lodging",
+				"src\\staticresources\\HTML_registration_wizard_lodging.resource"
+			],
+			[
+				"jslodging",
+				"src\\staticresources\\JS_reg_ctrl_familylodging.resource"
+			],
+			[
+				"wizardextens",
+				"src\\classes\\WizardExtension.cls"
+			],
+			[
+				"jswizimmedia",
+				"src\\staticresources\\JS_reg_ctrl_wizard_immediateReqs.resource"
+			],
+			[
+				"jimmediatereqs",
+				"unpackaged\\staticresources\\JS_reg_ctrl_wizard_immediateReqs.resource"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

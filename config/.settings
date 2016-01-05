@@ -1,0 +1,19 @@
+{
+    "username": "alan.hensong2@glorieta.org.alandev", 
+    "environment": "sandbox", 
+    "project_name": "Alt_Org_DEV", 
+    "workspace": "C:\\Sublime_Workspaces\\workspace", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "XDCS6ROFJ96E6HTYYGBKE4RIOYUQWEH7", 
+    "metadata_container": "1dc6100000020UoAAI", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
